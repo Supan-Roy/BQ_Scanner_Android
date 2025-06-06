@@ -23,4 +23,5 @@ A lightweight Android application that scans QR codes and barcodes using **Googl
 - **ConstraintLayout** – UI layout system
 
 ---
-
+## APK 
+- Download and Try: https://1drv.ms/u/c/772605cc6d15ae2c/EXVLV4QsBr1KttC0gvCbaScBkBm53SRC_NSufEG5rL0R3g?e=CcCKcf
